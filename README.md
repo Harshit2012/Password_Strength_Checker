@@ -16,6 +16,9 @@ This is a simple web app designed to help users check the strength of their pass
 - JavaScript
 - Bootstrap
 
+## Download to Phone
+To Download this website into phone you have to download app-release.apk and install it on phone.
+
 ## Try it out
 Try this website by clicking [here](https://harshit2012.github.io/Password_Strength_Checker/)
 
